@@ -12,4 +12,6 @@ if (num1 > num2)
     Console.Write($"max = a = {num1}");
 }
 else
+{
     Console.Write($"max = b = {num2}");
+}
